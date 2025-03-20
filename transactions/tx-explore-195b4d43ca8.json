@@ -1,0 +1,19 @@
+{
+  "transaction_id": "explore-195b4d43ca8",
+  "type": "explore",
+  "timestamp": "2025-03-20T18:32:42.917Z",
+  "player": "markjspivey-xwisee",
+  "action": {
+    "region": "starting-village",
+    "energy_spent": 10
+  },
+  "results": {
+    "experience_gained": 16,
+    "items_found": [],
+    "level_up": false
+  },
+  "blockchain": {
+    "previous_hash": "explore-195b4d43ca5",
+    "block_height": 3
+  }
+}
