@@ -1,0 +1,10 @@
+{
+  "transaction_id": "create-195b4b7da13",
+  "type": "character_creation",
+  "timestamp": "2025-03-20T18:01:42.675Z",
+  "player": "markjspivey-xwisee",
+  "character": {
+    "name": "RooKnight",
+    "class": "warrior"
+  }
+}
