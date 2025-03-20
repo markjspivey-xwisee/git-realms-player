@@ -1,19 +1,19 @@
 {
   "meta": {
     "format_version": "1.0.0",
-    "last_updated": "2025-03-20T19:25:47.759Z",
+    "last_updated": "2025-03-20T21:57:39.402Z",
     "git_realm_version": "1.0.0"
   },
   "player": {
     "name": "RooKnight",
     "class": "warrior",
     "level": 1,
-    "experience": 64,
+    "experience": 90,
     "next_level_at": 100,
     "stats": {
-      "health": 120,
+      "health": 118,
       "max_health": 120,
-      "energy": 50,
+      "energy": 40,
       "max_energy": 100,
       "strength": 15,
       "dexterity": 10,
@@ -23,7 +23,7 @@
       "defense": 7
     },
     "skills": {
-      "combat": 1,
+      "combat": 1.1,
       "exploration": 1.4000000000000004,
       "crafting": 1,
       "gathering": 1
@@ -89,11 +89,11 @@
       ],
       "completed": []
     },
-    "last_transaction": "2025-03-20T19:25:47.759Z"
+    "last_transaction": "2025-03-20T21:57:39.402Z"
   },
   "blockchain": {
-    "block_height": 5,
-    "last_hash": "explore-195b504d570",
+    "block_height": 6,
+    "last_hash": "combat-195b58fddcb",
     "transactions": []
   }
 }
