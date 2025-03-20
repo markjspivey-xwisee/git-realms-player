@@ -1,19 +1,19 @@
 {
   "meta": {
     "format_version": "1.0.0",
-    "last_updated": "2025-03-20T18:01:41.484Z",
+    "last_updated": "2025-03-20T18:02:28.510Z",
     "git_realm_version": "1.0.0"
   },
   "player": {
     "name": "RooKnight",
     "class": "warrior",
     "level": 1,
-    "experience": 0,
+    "experience": 12,
     "next_level_at": 100,
     "stats": {
       "health": 120,
       "max_health": 120,
-      "energy": 100,
+      "energy": 85,
       "max_energy": 100,
       "strength": 15,
       "dexterity": 10,
@@ -24,7 +24,7 @@
     },
     "skills": {
       "combat": 1,
-      "exploration": 1,
+      "exploration": 1.1,
       "crafting": 1,
       "gathering": 1
     },
@@ -44,6 +44,11 @@
       {
         "id": "health-potion",
         "name": "Health Potion",
+        "quantity": 2,
+        "equipped": false
+      },
+      {
+        "id": "herbs",
         "quantity": 2,
         "equipped": false
       }
@@ -74,11 +79,11 @@
       ],
       "completed": []
     },
-    "last_transaction": "2025-03-20T18:01:41.484Z"
+    "last_transaction": "2025-03-20T18:02:28.510Z"
   },
   "blockchain": {
-    "block_height": 1,
-    "last_hash": "genesis-195b4b7d56c",
+    "block_height": 2,
+    "last_hash": "explore-195b4b88d1e",
     "transactions": []
   }
 }
