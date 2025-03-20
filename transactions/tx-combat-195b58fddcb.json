@@ -1,0 +1,22 @@
+{
+  "transaction_id": "combat-195b58fddcb",
+  "type": "combat",
+  "timestamp": "2025-03-20T21:57:39.402Z",
+  "player": "markjspivey-xwisee",
+  "action": {
+    "enemy": "wolf",
+    "energy_spent": 10
+  },
+  "results": {
+    "outcome": "defeat",
+    "damage_dealt": 11,
+    "damage_received": 2,
+    "experience_gained": 26,
+    "items_found": [],
+    "level_up": false
+  },
+  "blockchain": {
+    "previous_hash": "combat-195b58fddcb",
+    "block_height": 6
+  }
+}
