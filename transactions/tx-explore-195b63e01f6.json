@@ -1,0 +1,25 @@
+{
+  "transaction_id": "explore-195b63e01f6",
+  "type": "explore",
+  "timestamp": "2025-03-21T01:07:51.924Z",
+  "player": "markjspivey-xwisee",
+  "action": {
+    "region": "starting-village",
+    "energy_spent": 10
+  },
+  "results": {
+    "experience_gained": 15,
+    "items_found": [
+      {
+        "id": "herbs",
+        "name": "Herbs",
+        "quantity": 1
+      }
+    ],
+    "level_up": false
+  },
+  "blockchain": {
+    "previous_hash": "explore-195b63e01f6",
+    "block_height": 11
+  }
+}
