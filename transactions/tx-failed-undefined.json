@@ -1,0 +1,23 @@
+{
+  "id": "tx-failed-undefined",
+  "timestamp": "2025-03-21T02:19:53.199Z",
+  "player": "markjspivey-xwisee",
+  "type": "explore",
+  "status": "failed",
+  "result": {
+    "success": false,
+    "reason": "Missing required action fields"
+  },
+  "validation": {
+    "validator": "prod-validator-1",
+    "timestamp": "2025-03-21T02:19:53.199Z",
+    "verification_steps": [
+      "player_authentication",
+      "action_validation"
+    ]
+  },
+  "metadata": {
+    "client_version": "1.0.0",
+    "schema_version": "1.0.0"
+  }
+}
