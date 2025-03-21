@@ -1,0 +1,25 @@
+{
+  "transaction_id": "explore-195b6772842",
+  "type": "explore",
+  "timestamp": "2025-03-21T02:10:17.282Z",
+  "player": "markjspivey-xwisee",
+  "action": {
+    "region": "starting-village",
+    "energy_spent": 10
+  },
+  "results": {
+    "experience_gained": 11,
+    "items_found": [
+      {
+        "id": "berries",
+        "name": "Berries",
+        "quantity": 2
+      }
+    ],
+    "level_up": false
+  },
+  "blockchain": {
+    "previous_hash": "explore-195b6772842",
+    "block_height": 14
+  }
+}
