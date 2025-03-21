@@ -1,6 +1,6 @@
 {
   "id": "tx-failed-undefined",
-  "timestamp": "2025-03-21T02:19:53.199Z",
+  "timestamp": "2025-03-21T02:22:53.905Z",
   "player": "markjspivey-xwisee",
   "type": "explore",
   "status": "failed",
@@ -10,7 +10,7 @@
   },
   "validation": {
     "validator": "prod-validator-1",
-    "timestamp": "2025-03-21T02:19:53.199Z",
+    "timestamp": "2025-03-21T02:22:53.905Z",
     "verification_steps": [
       "player_authentication",
       "action_validation"
