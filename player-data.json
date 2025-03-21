@@ -1,19 +1,19 @@
 {
   "meta": {
     "format_version": "1.0.0",
-    "last_updated": "2025-03-21T01:46:05.986Z",
+    "last_updated": "2025-03-21T02:10:17.282Z",
     "git_realm_version": "1.0.0"
   },
   "player": {
     "name": "RooKnight",
     "class": "warrior",
     "level": 3,
-    "experience": 204,
+    "experience": 215,
     "next_level_at": 225,
     "stats": {
       "health": 140,
       "max_health": 140,
-      "energy": 85,
+      "energy": 75,
       "max_energy": 110,
       "strength": 17,
       "dexterity": 12,
@@ -24,7 +24,7 @@
     },
     "skills": {
       "combat": 1.2000000000000002,
-      "exploration": 2.000000000000001,
+      "exploration": 2.100000000000001,
       "crafting": 1,
       "gathering": 1
     },
@@ -54,7 +54,7 @@
       },
       {
         "id": "berries",
-        "quantity": 10,
+        "quantity": 12,
         "equipped": false
       },
       {
@@ -89,11 +89,11 @@
       ],
       "completed": []
     },
-    "last_transaction": "2025-03-21T01:46:05.986Z"
+    "last_transaction": "2025-03-21T02:10:17.282Z"
   },
   "blockchain": {
-    "block_height": 13,
-    "last_hash": "explore-195b6610322",
+    "block_height": 14,
+    "last_hash": "explore-195b6772842",
     "transactions": []
   }
 }
